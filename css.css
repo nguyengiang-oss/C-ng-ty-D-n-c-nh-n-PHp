@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+#tong{width:778px; height:500px;}
+#header{width:778px; height:55px;}
+#left{width:200px; height:415px; float:left; position:relative;
+background-color:#6998cc;}
+#left_eng{ position:absolute; bottom:5px; left:30px;}
+#center{width:578px; height:415px;float:left;}
+#clr{clear:both;}
+#footer{width:778px; height:30px; background-color:#203b6a; color:white; text-align:center}
